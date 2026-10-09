@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "name": "Network Test Movie",
+      "type": "Movie",
+      "year": "2026",
+      "description": "This movie was loaded from the FlawlessHD online catalog.",
+      "poster": "",
+      "stream": ""
+    },
+    {
+      "name": "Network Test Movie 2",
+      "type": "Movie",
+      "year": "2026",
+      "description": "A second movie loaded from the remote catalog.",
+      "poster": "",
+      "stream": ""
+    },
+    {
+      "name": "Network Test Anime",
+      "type": "Anime",
+      "year": "2026",
+      "description": "This anime was loaded from the FlawlessHD online catalog.",
+      "poster": "",
+      "stream": ""
+    }
+  ]
+}
