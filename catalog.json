@@ -5,7 +5,7 @@
       "type": "Movie",
       "year": "2026",
       "description": "This movie was loaded from the FlawlessHD online catalog.",
-      "poster": "",
+      "poster": "https://raw.githubusercontent.com/Flawless-AZ/FlawlessHD-Catalog/refs/heads/main/Big%20Buck%20Bunny.jpg",
       "stream": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
     },
     {
