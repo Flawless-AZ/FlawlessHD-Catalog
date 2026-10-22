@@ -13,8 +13,8 @@
       "type": "Movie",
       "year": "2026",
       "description": "Testing a second remote video source.",
-      "poster": "https://storage.googleapis.com/gtv-videos-bucket/sample/images_480x270/ElephantsDream.jpg",
-      "stream": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      "poster": "",
+      "stream": "https://raw.githubusercontent.com/Flawless-AZ/FlawlessHD-Catalog/refs/heads/main/AnimePahe_Hitozuma_no_Kuchibiru_wa_Kan_Chuuhai_no_Aji_ga_Shite_-_01_720p_OceanVeil.mp4"
     },
     {
       "name": "Network Test Anime",
