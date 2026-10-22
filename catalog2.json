@@ -1,0 +1,12 @@
+{
+  "movies": [
+    {
+      "name": "Remote Source 2 Test",
+      "type": "Movie",
+      "year": "2026",
+      "description": "Loaded independently from FlawlessHD Remote Source 2.",
+      "stream": "https://raw.githubusercontent.com/Flawless-AZ/FlawlessHD-Catalog/refs/heads/main/Chuuhai%20Lips%202.mp4",
+      "poster": ""
+    }
+  ]
+}
