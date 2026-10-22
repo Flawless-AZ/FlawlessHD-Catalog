@@ -17,12 +17,12 @@
       "stream": "https://raw.githubusercontent.com/Flawless-AZ/FlawlessHD-Catalog/refs/heads/main/AnimePahe_Hitozuma_no_Kuchibiru_wa_Kan_Chuuhai_no_Aji_ga_Shite_-_01_720p_OceanVeil.mp4"
     },
     {
-      "name": "Network Test Anime - Chuuhai Lips 2",
+      "name": "Network Test Anime",
       "type": "Anime",
       "year": "2026",
       "description": "Testing another remote video stream.",
       "poster": "",
-      "stream": "https://raw.githubusercontent.com/Flawless-AZ/FlawlessHD-Catalog/refs/heads/main/Chuuhai%20Lips%202.mp4"
+      "stream": ""
     }
   ]
 }
