@@ -1,0 +1,12 @@
+{
+  "movies": [
+    {
+      "name": "Testing Remote Source 3",
+      "type": "",
+      "year": "",
+      "description": "Loaded independently from FlawlessHD Remote Source 3.",
+      "stream": "https://www.1flex.org",
+      "poster": ""
+    }
+  ]
+}
