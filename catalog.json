@@ -6,7 +6,9 @@
       "year": "2001",
       "description": "Playback Test",
       "poster": "https://raw.github.com/Flawless-AZ/FlawlessHD-Catalog/blob/main/Planets.jpg",
-      "stream": "https://raw.www.1flex.org/search?q=the%20dark%20knight"
+      "stream": ""
+      "playbackType": "DIRECT",
+      "exteranlId": ""
     },
     {
       "name": "Network Test - BigBuck Bunny",
@@ -15,8 +17,6 @@
       "description": "Playback resolver test using a separate JSON Catalog source.",
       "poster": "https://raw.githubusercontent.com/Flawless-AZ/FlawlessHD-Catalog/refs/heads/main/Big%20Buck%20Bunny.jpg",
       "stream": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
-      "playbackType": "DIRECT",
-      "exteranlId": ""
     },
     {
       "name": "Network Test Anime - Chuhai Lips",
