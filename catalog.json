@@ -1,22 +1,22 @@
 {
   "movies": [
     {
-      "name": "Big Buck Bunny",
-      "type": "Movie",
-      "year": "2006",
-      "description": "Playback resolver test using a separate JSON Catalog source.",
-      "poster": "https://raw.githubusercontent.com/Flawless-AZ/FlawlessHD-Catalog/refs/heads/main/Big%20Buck%20Bunny.jpg",
-      "stream": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
-      "playbackType": "DIRECT",
-      "exteranlId": ""
+      "name": "",
+      "type": "",
+      "year": "",
+      "description": "",
+      "poster": "",
+      "stream": "",      
     },
     {
       "name": "Network Test Movie 2",
       "type": "Movie",
       "year": "2026",
-      "description": "Testing a second remote video source.",
-      "poster": "",
-      "stream": ""
+      "description": "Playback resolver test using a separate JSON Catalog source.",
+      "poster": "https://raw.githubusercontent.com/Flawless-AZ/FlawlessHD-Catalog/refs/heads/main/Big%20Buck%20Bunny.jpg",
+      "stream": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+      "playbackType": "DIRECT",
+      "exteranlId": ""
     },
     {
       "name": "Network Test Anime",
