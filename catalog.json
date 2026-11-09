@@ -9,7 +9,7 @@
       "stream": "",      
     },
     {
-      "name": "Network Test Movie 2",
+      "name": "Network Test - BigBuck Bunny",
       "type": "Movie",
       "year": "2026",
       "description": "Playback resolver test using a separate JSON Catalog source.",
