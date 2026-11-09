@@ -5,7 +5,7 @@
       "type": "Movie",
       "year": "2001",
       "description": "Playback Test",
-      "poster": "https://raw.githubusercontent.com/Flawless-AZ/FlawlessHD-Catalog/refs/heads/main/Big%20Buck%20Bunny.jpg",
+      "poster": "https://raw.github.com/Flawless-AZ/FlawlessHD-Catalog/blob/main/Planets.jpg",
       "stream": "",
       "playbackType": "DIRECT",
       "exteranlId": ""
